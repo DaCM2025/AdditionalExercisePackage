@@ -4,11 +4,13 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of AdditionalExercisePackage is to ...
+The goal of AdditionalExercisePackage is to illustrate the main steps 
+of your package preparation.
 
 ## Installation
 
-You can install the development version of AdditionalExercisePackage from [GitHub](https://github.com/) with:
+You can install the development version of AdditionalExercisePackage 
+from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("pak")
