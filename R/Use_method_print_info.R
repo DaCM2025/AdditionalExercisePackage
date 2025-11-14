@@ -1,4 +1,4 @@
-#' Generic function bar
+#' Generic function print_info
 #'
 #' @param object An object
 #' @param ... Some additional parameters (ignored)

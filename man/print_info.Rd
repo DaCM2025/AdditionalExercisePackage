@@ -2,7 +2,7 @@
 % Please edit documentation in R/Use_method_print_info.R
 \name{print_info}
 \alias{print_info}
-\title{Generic function bar}
+\title{Generic function print_info}
 \usage{
 print_info(object, ...)
 }
@@ -15,5 +15,5 @@ print_info(object, ...)
 Method depends on class
 }
 \description{
-Generic function bar
+Generic function print_info
 }
