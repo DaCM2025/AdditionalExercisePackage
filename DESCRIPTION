@@ -12,3 +12,5 @@ LazyData: true
 URL: https://github.com/DaCM2025/AdditionalExercisePackage
 BugReports: https://github.com/DaCM2025/AdditionalExercisePackage/issues
 RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
