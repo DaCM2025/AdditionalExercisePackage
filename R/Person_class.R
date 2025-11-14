@@ -3,7 +3,7 @@
 #' @param name Name of a Person
 #' @param age Age of a Person
 #'
-#' @return An object of class `Person`
+#' @return An object of class `Person_class`
 #'
 #' @examples Person_class(name = "Alice", age = 30)
 #'

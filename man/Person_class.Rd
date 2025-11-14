@@ -12,7 +12,7 @@ Person_class(name, age)
 \item{age}{Age of a Person}
 }
 \value{
-An object of class `Person`
+An object of class `Person_class`
 }
 \description{
 Person_class object

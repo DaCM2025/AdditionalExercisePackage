@@ -2,5 +2,6 @@
 
 export("%r%")
 export(Person_class)
+export(print_info)
 importFrom(stats,coef)
 importFrom(stats,lm)
