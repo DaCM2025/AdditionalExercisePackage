@@ -4,10 +4,10 @@
 \alias{print_info.Person_class}
 \title{Print method for a class Person_class}
 \usage{
-\method{print_info}{Person_class}(x, ...)
+\method{print_info}{Person_class}(object, ...)
 }
 \arguments{
-\item{x}{an object to which we apply our method}
+\item{object}{an object to which we apply our method}
 
 \item{...}{Additional parameters (ignored)}
 }

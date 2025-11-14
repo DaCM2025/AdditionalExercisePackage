@@ -1,6 +1,6 @@
 #' Print method for a class Person_class
 #'
-#' @param x an object to which we apply our method
+#' @param object an object to which we apply our method
 #' @param ... Additional parameters (ignored)
 #'
 #' @return Prints information about the person
@@ -9,8 +9,8 @@
 #'
 #' @export
 #' @method print_info Person_class
-print_info.Person_class <- function(x, ...) {
+print_info.Person_class <- function(object, ...) {
   cat("Person:\n")
-  cat("  Name:", x$name, "\n")
-  cat("  Age :", x$age, "\n")
+  cat("  Name:", object$name, "\n")
+  cat("  Age :", object$age, "\n")
 }
