@@ -1,0 +1,47 @@
+# AdditionalExercisePackage
+
+The goal of AdditionalExercisePackage is to illustrate the main steps of
+your package preparation.
+
+## Installation
+
+You can install the development version of AdditionalExercisePackage
+from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("DaCM2025/AdditionalExercisePackage")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(AdditionalExercisePackage)
+## basic example code
+```
+
+Below explain how your package works, what are the functions and so on…
+
+# Package index
+
+## All functions
+
+- [`Person_class()`](https://github.com/DaCM2025/AdditionalExercisePackage/reference/Person_class.md)
+  : Person_class object
+- [`` `%r%` ``](https://github.com/DaCM2025/AdditionalExercisePackage/reference/grapes-r-grapes.md)
+  : Fitted linear model
+- [`print_info(`*`<Person_class>`*`)`](https://github.com/DaCM2025/AdditionalExercisePackage/reference/print_info.Person_class.md)
+  : Print method for a class Person_class
+- [`print_info()`](https://github.com/DaCM2025/AdditionalExercisePackage/reference/print_info.md)
+  : Generic function print_info
+- [`snipes`](https://github.com/DaCM2025/AdditionalExercisePackage/reference/snipes.md)
+  : Snipes price data
+
+# Articles
+
+### All vignettes
+
+- [AdditionalExercisePackage
+  tutorial](https://github.com/DaCM2025/AdditionalExercisePackage/articles/AdditionalExercisePackage_tutorial.md):
