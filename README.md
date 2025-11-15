@@ -27,3 +27,4 @@ library(AdditionalExercisePackage)
 ## basic example code
 ```
 
+Below explain how your package works, what are the functions and so on...
