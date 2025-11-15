@@ -3,3 +3,8 @@
 ^LICENSE\.md$
 ^data-raw$
 ^\.github$
+^^\.*\\.Rproj$$
+^^\\.Rproj\\.user$$
+^^LICENSE\\.md$$
+^^\\.github$$
+^^data-raw$$
