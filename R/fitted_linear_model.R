@@ -8,6 +8,8 @@
 #'
 #' @examples 2:1 %r% 3:2
 #'
+#' @example inst/examples/eg_reg_coef.R
+#'
 #' @importFrom stats lm coef
 #'
 #' @export

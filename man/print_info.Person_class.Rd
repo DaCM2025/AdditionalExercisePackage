@@ -20,4 +20,7 @@ Print method for a class Person_class
 \examples{
 Person_class(name = "Alice", age = 30)
 
+# illustration of the print_info method
+bob_object <- Person_class(name = "Bob", age = 27)
+print_info(bob_object)
 }

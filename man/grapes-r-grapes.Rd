@@ -20,4 +20,6 @@ This function calculates the regression coefficients of a linear model.
 \examples{
 2:1 \%r\% 3:2
 
+## linear regression
+cars$speed \%r\% cars$dist
 }

@@ -2,6 +2,7 @@
 # AdditionalExercisePackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/DaCM2025/AdditionalExercisePackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/DaCM2025/AdditionalExercisePackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of AdditionalExercisePackage is to illustrate the main steps 

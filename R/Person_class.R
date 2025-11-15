@@ -7,6 +7,8 @@
 #'
 #' @examples Person_class(name = "Alice", age = 30)
 #'
+#' @example inst/examples/person_class_ex.R
+#'
 #' @export
 Person_class <- function(name, age) {
   structure(list(name = name, age = age), class = "Person_class")

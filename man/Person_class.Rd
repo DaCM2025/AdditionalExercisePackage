@@ -20,4 +20,7 @@ Person_class object
 \examples{
 Person_class(name = "Alice", age = 30)
 
+# example of class usage
+Bob <- Person_class(name = 'Bob', age = 25)
+class(Bob)
 }

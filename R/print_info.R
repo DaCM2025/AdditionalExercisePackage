@@ -7,6 +7,8 @@
 #'
 #' @examples Person_class(name = "Alice", age = 30)
 #'
+#' @example inst/examples/print_info_ex.R
+#'
 #' @export
 #' @method print_info Person_class
 print_info.Person_class <- function(object, ...) {
